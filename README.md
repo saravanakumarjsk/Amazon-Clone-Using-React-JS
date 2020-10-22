@@ -1,6 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+This project is a motivation to replicate the amazon.com website using React JS.
+This projetc is deployed using Firebase as backend and is live in [AmazonClone.com](https://clone-b50ff.web.app/)
+you can view it in the browser.
+May add payment processing using stripe in the future.
 
-## Available Scripts
+## 
 
 In the project directory, you can run:
 
