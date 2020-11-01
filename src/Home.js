@@ -14,7 +14,11 @@ function Home() {
             <div className="home__row">
                 <Product
                     id='12345'
+<<<<<<< HEAD
                     title='ELON MUSK - Tesla, Space X and an outer space future'
+=======
+                    title='ELON MUSK - Tesla, Space X, and the Quest for a Fantastic Future'
+>>>>>>> 58183e6975b070f08aa397221b4b1211adfc4956
                     price={11.96}
                     rating={2}
                     image='https://images-na.ssl-images-amazon.com/images/I/5112YFsXIJL.jpg'
